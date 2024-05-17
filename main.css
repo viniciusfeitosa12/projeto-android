@@ -1,0 +1,44 @@
+@media screen  and (max-width:700px){
+
+
+    #android{
+        margin-left:-2px;
+        height: 273px;
+
+    }
+
+    #irina{
+        margin-left:-18px;
+        height: 273px;
+    }
+
+    #fundo{
+        margin-left:-22px;
+        height: 273px;
+        width: 273px;
+        
+    }
+
+    #caixa{
+        margin-left: -35px;
+        width: 280px;
+    }
+
+    #label{
+        margin-left: -67px;
+        border: 30px;
+    }
+
+    footer{
+        width: 463px;
+    }
+
+    footer > h3{
+        font-size: 13px;
+    }
+
+
+
+    
+
+}

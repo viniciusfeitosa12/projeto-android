@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "idroid";
+    src: url(pacote-projeto-d010/fontes/idroid.otf) format('opentype');
+}
+@font-face {
+    font-family: "rakesly";
+    src: url(pacote-projeto-d010/fontes/rakesly\ bd.otf) format(opentype);
+}
+
+
+body{
+  background-color: #39CD7C;
+}
+.cabeca{
+    text-align: center;
+    color: white;
+    font-family:"rakesly" ;
+}
+
+.margin {
+    display: inline-block;
+    padding: 6px;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a:hover{
+    background-color: #2E8B52;
+    color: white;
+    transition: 0.3s;
+}
+
+header{
+    background-image: linear-gradient(to bottom, #1EB658, #2E8B52, #306143);
+    padding-top: 20px;
+    margin: -7px -7px -16px -7px; 
+}
+
+header > h1 h2 {
+    text-align: center;
+}
+
+main{
+    background-color: white;
+    margin-right: 80px;
+    margin-left: 80px;
+    padding: 40px;
+    padding-top: 1px;
+}
+
+.destaque{
+    background-color: #4eff9e54;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.font{
+    font-family: "idroid";
+}
+
+.midia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    background-color: white;
+    margin-right: 80px;
+    margin-left: 80px;
+    padding: 40px;
+    padding-top: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe{
+    margin-top: 30px;
+}
+
+label{
+    display: flex
+}
+
+p > a{
+    color: rgb(7, 177, 7);
+    border-style: bold;
+}
+div > h2 {
+    color: white;
+    background-color: #20a252;
+    border: 10px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#caixa{
+    background-color: #75dc9c;
+    margin: -12px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 0px 0px 10px 10px;
+
+}
+
+#id{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    margin: 6px -10px -11px -9px;
+    padding: 10px 10px 10px 10px;
+    height: 36px;
+    font-size: 17px;
+    padding-bottom: 30px;
+}
+
+#color{
+    color: blue;
+}
+
+.flax{
+    display: flex;
+}
+
+#youtube{
+    background-color:#035729 ;
+}
+
